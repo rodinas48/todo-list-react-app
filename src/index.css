@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+    font-family: 'Abel', sans-serif;
+      font-family: 'Barlow Condensed', sans-serif;
+      font-family: 'Jost', sans-serif;
+      /* font-family: 'Montserrat', sans-serif; */
+}
+body{
+  background-color: #f9f0ef ;
+}

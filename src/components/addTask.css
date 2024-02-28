@@ -1,0 +1,29 @@
+.inputDiv{
+  /* width: 80%; */
+  background-color: white;
+   margin:-70px auto 40px; 
+   padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 1px #52619329;
+
+}
+#todo-input{
+  width: 60%;
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-bottom: #526193 3px solid;
+  display: block;
+  margin: auto;
+}
+.btn{
+  background-color: #ed6a5a !important;
+  color: white !important;
+  font-weight: bold !important;
+  width: 150px;
+  margin-top: 20px;
+  box-shadow: 1px 1px 8px 0px #ed6b5a86;
+}
+.btn:hover{
+  background-color: #d75543 !important;
+}
